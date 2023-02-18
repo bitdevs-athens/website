@@ -1,4 +1,4 @@
-baseURL = 'https://bitdevs-athens.com'
+baseURL = "https://bitdevs-athens.com"
 languageCode = 'en-us'
 title = 'BitDevs Athens'
 theme = 'gokarna'
@@ -13,7 +13,7 @@ publishDir = 'docs'
 
 
 [params]
-    avatarURL = "https://bitdevs-athens.com/bitcoin.png"
+    avatarURL = "bitcoin.png"
     avatarSize = "size-xl"
     description = "Socratic seminars focusing on technical aspect of bitcoin"
     footer = "bitdevs-athens"
