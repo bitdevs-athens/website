@@ -1,4 +1,4 @@
-baseURL = "https://bitdevs-athens.com"
+baseURL = "https://bitdevs-athens.com/"
 languageCode = 'en-us'
 title = 'BitDevs Athens'
 theme = 'gokarna'
