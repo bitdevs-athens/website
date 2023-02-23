@@ -16,4 +16,5 @@ publishDir = 'docs'
     avatarURL = "bitcoin.png"
     avatarSize = "size-xl"
     description = "Socratic seminars focusing on technical aspect of bitcoin"
+    description2 = "Next seminar: Monday 13 March"
     footer = "bitdevs-athens"
