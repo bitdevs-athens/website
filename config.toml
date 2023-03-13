@@ -10,11 +10,21 @@ publishDir = 'docs'
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 1
+  [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='eye'></span>"
+    url = "/about/"
+    weight = 2
+    [menu.main.params]
+            target= "_self"
 
 
 [params]
     avatarURL = "bitcoin.png"
-    avatarSize = "size-xl"
+    avatarSize = "size-l"
     description = "Socratic seminars focusing on technical aspect of bitcoin"
-    description2 = "Next seminar: Monday 13 March"
+    description2 = "Next seminar: Monday 13 March, 7pm @ The Cube Athens"
     footer = "bitdevs-athens"
+    socialIcons = [
+      {name = "email", url = "https://www.meetup.com/blockchaingreece-0/"},
+    ]
