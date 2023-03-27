@@ -23,7 +23,7 @@ publishDir = 'docs'
     avatarURL = "bitcoin.png"
     avatarSize = "size-l"
     description = "Socratic seminars focusing on technical aspect of bitcoin"
-    description2 = "Next seminar: Monday 13 March, 7pm @ The Cube Athens"
+    description2 = "Next seminar: Monday 3 April, 7pm @ Yodeck"
     footer = "bitdevs-athens"
     socialIcons = [
       {name = "email", url = "https://www.meetup.com/blockchaingreece-0/"},
